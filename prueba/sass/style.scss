@@ -1,0 +1,32 @@
+#navbar{
+	width:80%;
+	height: 23px;
+
+	ul{
+		list-style-type: none;
+	}
+	li{
+		float: left;
+		a{
+			font-weight: bold;
+		}
+
+	}
+}
+
+#header_wrapper{
+	background-color: #1461b3;
+
+	ul{
+		list-style-type: none;
+	}
+	li{
+		float: left;
+
+		a{
+			text-decoration: none;
+		}
+	}
+
+
+}
