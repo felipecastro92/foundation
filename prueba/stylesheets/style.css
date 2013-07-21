@@ -8,11 +8,11 @@
     #navbar li a {
       font-weight: bold; }
 
-#header_wrapper {
+.header_wrapper {
   background-color: #1461b3; }
-  #header_wrapper ul {
+  .header_wrapper ul {
     list-style-type: none; }
-  #header_wrapper li {
+  .header_wrapper li {
     float: left; }
-    #header_wrapper li a {
+    .header_wrapper li a {
       text-decoration: none; }
